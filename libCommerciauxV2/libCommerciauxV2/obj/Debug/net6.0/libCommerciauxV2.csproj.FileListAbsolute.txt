@@ -1,0 +1,22 @@
+C:\Users\USER\OneDrive - BUREAU 89\Documents\Visual Studio 2022\repos\libCommerciauxV2\libCommerciauxV2\bin\Debug\net6.0\libCommerciauxV2.deps.json
+C:\Users\USER\OneDrive - BUREAU 89\Documents\Visual Studio 2022\repos\libCommerciauxV2\libCommerciauxV2\bin\Debug\net6.0\libCommerciauxV2.dll
+C:\Users\USER\OneDrive - BUREAU 89\Documents\Visual Studio 2022\repos\libCommerciauxV2\libCommerciauxV2\bin\Debug\net6.0\libCommerciauxV2.pdb
+C:\Users\USER\OneDrive - BUREAU 89\Documents\Visual Studio 2022\repos\libCommerciauxV2\libCommerciauxV2\obj\Debug\net6.0\libCommerciauxV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive - BUREAU 89\Documents\Visual Studio 2022\repos\libCommerciauxV2\libCommerciauxV2\obj\Debug\net6.0\libCommerciauxV2.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive - BUREAU 89\Documents\Visual Studio 2022\repos\libCommerciauxV2\libCommerciauxV2\obj\Debug\net6.0\libCommerciauxV2.AssemblyInfo.cs
+C:\Users\USER\OneDrive - BUREAU 89\Documents\Visual Studio 2022\repos\libCommerciauxV2\libCommerciauxV2\obj\Debug\net6.0\libCommerciauxV2.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - BUREAU 89\Documents\Visual Studio 2022\repos\libCommerciauxV2\libCommerciauxV2\obj\Debug\net6.0\libCommerciauxV2.dll
+C:\Users\USER\OneDrive - BUREAU 89\Documents\Visual Studio 2022\repos\libCommerciauxV2\libCommerciauxV2\obj\Debug\net6.0\refint\libCommerciauxV2.dll
+C:\Users\USER\OneDrive - BUREAU 89\Documents\Visual Studio 2022\repos\libCommerciauxV2\libCommerciauxV2\obj\Debug\net6.0\libCommerciauxV2.pdb
+C:\Users\USER\OneDrive - BUREAU 89\Documents\Visual Studio 2022\repos\libCommerciauxV2\libCommerciauxV2\obj\Debug\net6.0\ref\libCommerciauxV2.dll
+C:\Users\traor\OneDrive\Documents\SIO\SIO\SIO semestre 3\D3 BLAVIN_CHABIN\TP4\libCommerciauxV2\libCommerciauxV2\libCommerciauxV2\obj\Debug\net6.0\libCommerciauxV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\traor\OneDrive\Documents\SIO\SIO\SIO semestre 3\D3 BLAVIN_CHABIN\TP4\libCommerciauxV2\libCommerciauxV2\libCommerciauxV2\obj\Debug\net6.0\libCommerciauxV2.AssemblyInfoInputs.cache
+C:\Users\traor\OneDrive\Documents\SIO\SIO\SIO semestre 3\D3 BLAVIN_CHABIN\TP4\libCommerciauxV2\libCommerciauxV2\libCommerciauxV2\obj\Debug\net6.0\libCommerciauxV2.AssemblyInfo.cs
+C:\Users\traor\OneDrive\Documents\SIO\SIO\SIO semestre 3\D3 BLAVIN_CHABIN\TP4\libCommerciauxV2\libCommerciauxV2\libCommerciauxV2\obj\Debug\net6.0\libCommerciauxV2.csproj.CoreCompileInputs.cache
+C:\Users\traor\OneDrive\Documents\SIO\SIO\SIO semestre 3\D3 BLAVIN_CHABIN\TP4\libCommerciauxV2\libCommerciauxV2\libCommerciauxV2\obj\Debug\net6.0\libCommerciauxV2.dll
+C:\Users\traor\OneDrive\Documents\SIO\SIO\SIO semestre 3\D3 BLAVIN_CHABIN\TP4\libCommerciauxV2\libCommerciauxV2\libCommerciauxV2\obj\Debug\net6.0\refint\libCommerciauxV2.dll
+C:\Users\traor\OneDrive\Documents\SIO\SIO\SIO semestre 3\D3 BLAVIN_CHABIN\TP4\libCommerciauxV2\libCommerciauxV2\libCommerciauxV2\obj\Debug\net6.0\libCommerciauxV2.pdb
+C:\Users\traor\OneDrive\Documents\SIO\SIO\SIO semestre 3\D3 BLAVIN_CHABIN\TP4\libCommerciauxV2\libCommerciauxV2\libCommerciauxV2\bin\Debug\net6.0\libCommerciauxV2.deps.json
+C:\Users\traor\OneDrive\Documents\SIO\SIO\SIO semestre 3\D3 BLAVIN_CHABIN\TP4\libCommerciauxV2\libCommerciauxV2\libCommerciauxV2\bin\Debug\net6.0\libCommerciauxV2.dll
+C:\Users\traor\OneDrive\Documents\SIO\SIO\SIO semestre 3\D3 BLAVIN_CHABIN\TP4\libCommerciauxV2\libCommerciauxV2\libCommerciauxV2\bin\Debug\net6.0\libCommerciauxV2.pdb
+C:\Users\traor\OneDrive\Documents\SIO\SIO\SIO semestre 3\D3 BLAVIN_CHABIN\TP4\libCommerciauxV2\libCommerciauxV2\libCommerciauxV2\obj\Debug\net6.0\ref\libCommerciauxV2.dll

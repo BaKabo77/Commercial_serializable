@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="libCommerciauxV2.Commercial" Collapsed="true">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAkAAAAAAAAACAAAAAAACACAAAAAAA=</HashCode>
+      <FileName>Commercial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="libCommerciauxV2.FraisTransport" Collapsed="true">
+    <Position X="1.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAQAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>FraisTransport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="libCommerciauxV2.NoteFrais" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAABAAAgAEAQAIAAEACAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>NoteFrais.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="LeCommercial" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="libCommerciauxV2.ServiceCommercial">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAgAAAACBAIAAAAAAAAI=</HashCode>
+      <FileName>ServiceCommercial.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="LesCommerciaux" />
+      <Property Name="MesNotes" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="libCommerciauxV2.RepasMidi" Collapsed="true">
+    <Position X="3.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAEAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RepasMidi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="libCommerciauxV2.Nuite" Collapsed="true">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IACAAAAAAAAAAAAEAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Nuite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
